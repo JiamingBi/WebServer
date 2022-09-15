@@ -1,0 +1,42 @@
+2022-08-31 21:15:32.361021 [info] : ========== Server init ==========
+2022-08-31 21:15:32.361043 [info] : Port:1316, OpenLinger: false
+2022-08-31 21:15:32.361129 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-31 21:15:32.361135 [info] : LogSys level: 1
+2022-08-31 21:15:32.361212 [info] : srcDir: /home/bjm/c++_project/WebServer/bin/resources/
+2022-08-31 21:15:32.361251 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-08-31 21:15:32.361287 [info] : ========== Server start ==========
+2022-08-31 21:16:22.778226 [info] : Client[6](192.168.5.55:39632) in, userCount:1
+2022-08-31 21:16:22.778342 [info] : Client[6] in!
+2022-08-31 21:16:22.778396 [info] : Client[7](192.168.5.55:39888) in, userCount:2
+2022-08-31 21:16:22.778427 [info] : Client[7] in!
+2022-08-31 21:16:22.780607 [info] : Client[6] quit!
+2022-08-31 21:16:22.780754 [info] : Client[6](192.168.5.55:39632) quit, UserCount:1
+2022-08-31 21:16:48.327170 [info] : Client[6](192.168.5.55:40912) in, userCount:2
+2022-08-31 21:16:48.327282 [info] : Client[6] in!
+2022-08-31 21:17:48.330606 [info] : Client[6] quit!
+2022-08-31 21:17:48.330745 [info] : Client[6](192.168.5.55:40912) quit, UserCount:1
+2022-08-31 21:17:48.330786 [info] : Client[7] quit!
+2022-08-31 21:17:48.330823 [info] : Client[7](192.168.5.55:39888) quit, UserCount:0
+2022-08-31 21:18:21.297666 [info] : Client[6](192.168.5.55:45008) in, userCount:1
+2022-08-31 21:18:21.297773 [info] : Client[6] in!
+2022-08-31 21:18:21.297816 [info] : Client[7](192.168.5.55:44752) in, userCount:2
+2022-08-31 21:18:21.297877 [info] : Client[7] in!
+2022-08-31 21:18:21.300120 [info] : Client[6] quit!
+2022-08-31 21:18:21.300237 [info] : Client[6](192.168.5.55:45008) quit, UserCount:1
+2022-08-31 21:18:21.564615 [info] : Client[6](192.168.5.55:45520) in, userCount:2
+2022-08-31 21:18:21.564710 [info] : Client[6] in!
+2022-08-31 21:19:21.357608 [info] : Client[7] quit!
+2022-08-31 21:19:21.357744 [info] : Client[7](192.168.5.55:44752) quit, UserCount:1
+2022-08-31 21:19:21.564081 [info] : Client[6] quit!
+2022-08-31 21:19:21.564208 [info] : Client[6](192.168.5.55:45520) quit, UserCount:0
+2022-08-31 21:19:23.212414 [info] : Client[6](192.168.5.55:48592) in, userCount:1
+2022-08-31 21:19:23.212521 [info] : Client[6] in!
+2022-08-31 21:19:23.212806 [info] : Client[7](192.168.5.55:48848) in, userCount:2
+2022-08-31 21:19:23.212869 [info] : Client[7] in!
+2022-08-31 21:19:23.214588 [info] : Client[6] quit!
+2022-08-31 21:19:23.214704 [info] : Client[6](192.168.5.55:48592) quit, UserCount:1
+2022-08-31 21:19:29.804095 [info] : Client[6](192.168.5.55:49104) in, userCount:2
+2022-08-31 21:19:29.804193 [info] : Client[6] in!
+2022-08-31 21:20:29.811191 [info] : Client[6] quit!
+2022-08-31 21:20:29.811338 [info] : Client[6](192.168.5.55:49104) quit, UserCount:1
+2022-08-31 21:20:29.811378 [info] : Client[7] quit!
